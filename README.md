@@ -1,2 +1,2 @@
 # DataScience
-FUNDAE/ IBM / Coursera Data Science course exercises
+FUNDAE / IBM / Coursera Data Science course exercises
